@@ -24,7 +24,7 @@ The goal is not just to install the tools, but to use them in a way that reflect
 - Prometheus
 - Grafana
 - Splunk
-- Kubernetes
+- Kubernetes (light exposure for basic deployment and troubleshooting concepts)
 
 ## Architecture
 
