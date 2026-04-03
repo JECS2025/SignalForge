@@ -1,4 +1,4 @@
-# SignalForge
+![SignalForge Logo](./assets/images/signalforge.png)
 
 This project is a hands-on homelab built to gain practical exposure to production monitoring, logging, troubleshooting, and backend service dependencies in a Linux environment.
 
