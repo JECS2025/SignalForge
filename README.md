@@ -33,6 +33,7 @@ The goal is not just to install the tools, but to use them in a way that reflect
 <p align="center">
   <img src="assets/images/architecture.drawio.png" alt="SignalForge Architecture" width="500">
 </p>
+
 - Application drives system activity
 - PostgreSQL provides data persistence
 - Prometheus collects application and system metrics
