@@ -1,4 +1,7 @@
-![SignalForge Logo](./assets/images/signalforge.png)
+<p align="center">
+  <img src="assets/images/signalforge.png" alt="SignalForge Logo" width="600">
+</p>
+
 
 This project is a hands-on homelab built to gain practical exposure to production monitoring, logging, troubleshooting, and backend service dependencies in a Linux environment.
 
@@ -27,8 +30,9 @@ The goal is not just to install the tools, but to use them in a way that reflect
 - Kubernetes (light exposure for basic deployment and troubleshooting concepts)
 
 ## Architecture
-
-SignalForge is being built inside an Ubuntu Server virtual machine. The lab will host a small application stack backed by PostgreSQL, with Prometheus collecting metrics, Grafana visualizing service health, Splunk ingesting logs, and Kubernetes used for lightweight deployment exposure and troubleshooting practice.
+<p align="center">
+  <img src="assets/images/architecture.drawio.png" alt="SignalForge Architecture" width="500">
+</p>
 
 ## Project Structure
 
