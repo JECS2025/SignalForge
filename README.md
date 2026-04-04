@@ -59,3 +59,8 @@ The goal is not just to install the tools, but to use them in a way that reflect
 - Expand incident simulations across app, database, and Kubernetes layers
 - Improve dashboard coverage for host, app, and database health
 - Refine log searches and incident runbooks
+
+## Current Status
+- [x] Environment setup complete (VM, tools, Docker)
+- [] Core stack pending (App, DB, Monitoring, Logs)
+- [] Incident simulation pending
